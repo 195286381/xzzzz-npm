@@ -1,0 +1,14 @@
+{
+  "name": "xzzzz-npm",
+  "version": "1.0.3",
+  "description": "Just a npm package test",
+  "keywords": [
+  	"xzzzz"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xzzzz",
+  "license": "MIT"
+}
