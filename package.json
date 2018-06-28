@@ -1,6 +1,6 @@
 {
   "name": "xzzzz-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Just a npm package test",
   "keywords": [
   	"xzzzz"
@@ -10,5 +10,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "xzzzz",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://https://github.com/195286381/xzzzz-npm"
+  },
+  "bugs": "https://github.com/195286381/xzzzz-npm/issues",
+  "homepage": "https://github.com/195286381/xzzzz-npm"
 }
